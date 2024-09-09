@@ -1,5 +1,7 @@
 <h2>Contact Us</h2>
-                <p>Have any questions or want to discuss a project? Get in touch with us through our contact page. We're here to help and look forward to hearing from you.</p>
+                <p>Have any questions or want to discuss a project? Get in touch with us through our contact 071234567<br>
+                    
+                .We're here to help and look forward to hearing from you.</p>
 
 
 <!-- Footer -->
