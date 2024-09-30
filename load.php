@@ -20,3 +20,8 @@ spl_autoload_register('ClassAutoload');
 // Creating instances of all classes
     $ObjLayouts = new layouts();
     $ObjMenus = new menus();
+
+    require 'includes/constants.php';
+    require 'includes/dbConnection.php';
+
+    $conn = new dbConnection(DBTYPE, HOSTNAME, DPPORT, DBHOSTUSER, HOSTPASS, DBNAME);
